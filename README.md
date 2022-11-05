@@ -1,6 +1,6 @@
 # PokemoNK
 PokemoNK is a project for Business Application Development Courses
-The Project consist of me and my 2 friend
+The Project consist of me and my 3 friend
 There are 2 actor in the application, Which is :
 - User / Player
 - Admin
